@@ -1,0 +1,1 @@
+Code for the model training is stored in final.py. Optuna training code is stored as dpm_optuna.py and corresponding sql db as db.sqlite3. The ASE db for the dataset is named as new_dataset70.db. Predicted values are stored in predicted200.csv. A report for the model is attached.
